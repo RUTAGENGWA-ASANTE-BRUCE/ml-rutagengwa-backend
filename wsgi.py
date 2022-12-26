@@ -1,6 +1,3 @@
-#issues with sending test images to frontend
-#remaining training and testing
-
 from tensorflow.keras.models import Sequential
 import tensorflow as tf
 from tensorflow.keras.layers import Dense, Dropout, Activation, Flatten, Conv2D, MaxPooling2D, Dropout
